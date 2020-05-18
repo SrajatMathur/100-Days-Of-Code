@@ -20,6 +20,11 @@
 2. I've built a 'Tap Music' web app using Javascript. Idk if you'll even call that a web app. LOL. But I learnt few things from it.
 3. I learn how to make a 'Modal' that drops down information and included a 'X' button for that drop down text modal.
 
+##
+##
+
+
+
 ### Day 0: May 18, Monday, 2020
 
 **Today's Progress**: Today, I resumed this challenge since we're all in lockdown and I didn't want to waste my time on nothing. I've started learning front-end programming. To be more precise, I'm doing project based learning on HTML, CSS and Javascript.
