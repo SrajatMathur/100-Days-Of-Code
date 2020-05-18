@@ -23,4 +23,3 @@
 ### Day 0: May 18, Monday, 2020
 
 **Today's Progress**: Today, I resumed this challenge since we're all in lockdown and I didn't want to waste my time on nothing. I've started learning front-end programming. To be more precise, I'm doing project based learning on HTML, CSS and Javascript.
-Srajat
