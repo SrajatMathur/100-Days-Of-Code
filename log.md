@@ -1,6 +1,18 @@
 # 100 Days Of Code
 ##
 
+### Day 1: May 26: Tuesday, 2020
+**Today's Progress**:  <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
+
+
+### Day 1: May 25: Monday, 2020
+**Today's Progress**: <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
+
+
+### Day 1: May 24: Sunday, 2020
+**Today's Progress**: <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
+
+
 ### Day 1: May 23: Saturday, 2020
 **Today's Progress**: I started watching [this video](https://www.youtube.com/watch?v=ipnWAKoiBtY&t=1315s) on NodeJS from the channel ThapaTechnical. Till now I've learnt that NodeJS is Javascript runtime written in C++ and was designed for Chrome V8. Further progress will be logged in this journal.
 
