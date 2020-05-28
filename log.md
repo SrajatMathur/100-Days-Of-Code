@@ -1,31 +1,38 @@
 # 100 Days Of Code
 ##
 
-### Day 1: May 26: Tuesday, 2020
+### Day 10: May 28: Thursday, 2020
 **Today's Progress**:  <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
 
 
-### Day 1: May 25: Monday, 2020
+### Day 9: May 27: Wednesday , 2020
+**Today's Progress**:  <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
+
+
+### Day 8: May 26: Tuesday, 2020
+**Today's Progress**:  <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
+
+
+### Day 7: May 25: Monday, 2020
 **Today's Progress**: <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
 
 
-### Day 1: May 24: Sunday, 2020
+### Day 6: May 24: Sunday, 2020
 **Today's Progress**: <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
 
-
-### Day 1: May 23: Saturday, 2020
+### Day 5: May 23: Saturday, 2020
 **Today's Progress**: I started watching [this video](https://www.youtube.com/watch?v=ipnWAKoiBtY&t=1315s) on NodeJS from the channel ThapaTechnical. Till now I've learnt that NodeJS is Javascript runtime written in C++ and was designed for Chrome V8. Further progress will be logged in this journal.
 
 
-### Day 1: May 22: Friday, 2020
+### Day 4: May 22: Friday, 2020
 **Today's Progress**: I made a webiste using Bootstrap 4 using the previous video and completed my work on this topic. I learnt about NavBar, Carousel, Cards, Bootstrap Grid and Footer on a web page. Now, I've started my work on NodeJS. Hope to learn this within this week till Friday with quite a few projects.
 
 
-### Day 1: May 21: Thursday, 2020
+### Day 3: May 21: Thursday, 2020
 **Today's Progress**: I've started with Project Based Learning of Bootstrap 4 and the first video that I watched was [this](https://www.youtube.com/watch?v=yZnNnvXO8HI&t=330s) and also, I learned that there are only classes that have to be used in basic HTML tags. These classes are already predefined in bootstrap.css file and I'm still in progress of this work will edit this tomorrow once it gets completed. 
 
 
-### Day 1: May 20: Wednesday, 2020
+### Day 2: May 20: Wednesday, 2020
 **Today's Progress**: <span style="color: red; background: yellow;"> I'm ashamed I didn't do anything today.</span>
 
 
